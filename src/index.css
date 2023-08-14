@@ -1,0 +1,8 @@
+body {
+    background-color: #1a1a2e !important;
+}
+
+.col-md-2-5 {
+    flex-basis: calc((100% / 12) * 2.5);
+    max-width: calc((100% / 12) * 2.5);
+}
